@@ -1,0 +1,16 @@
+{
+"companyName": "Sovartek",
+"productName": "MazeDemo",
+"productVersion": "0.1",
+"dataUrl": "MazeDemo.data.unityweb",
+"wasmCodeUrl": "MazeDemo.wasm.code.unityweb",
+"wasmFrameworkUrl": "MazeDemo.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.11f1"
+}
